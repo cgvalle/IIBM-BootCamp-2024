@@ -26,9 +26,9 @@ The following is a brief description of each tutorial generated in 2022:
 
 | Day   | Colab tutorial          |  Solution |          Description             |
 |-------|---------------------------|--|-------------------------------------|
-| Day 1 morning     |   |-  | Setting up Tools Google Colab and Github and basics of data types| 
+| Day 1 morning     |   |   | Setting up Tools Google Colab and Github and basics of data types| 
 | Day 1 afternoon   |   |   | Control flow|
-| Day 2 morning     |   |-  | Reading data, arithmetics and functions|
+| Day 2 morning     |   |   | Reading data, arithmetics and functions|
 | Day 2 afternoon   |   |   | Excersise: 'SARS-Cov-2 sequence' |
 | Day 3 morning     |   |   | Numpy, Matlab arrays and plots|
 | Day 3 afternoon   |   |   | Excersise: 'Chile: COVID data'|
