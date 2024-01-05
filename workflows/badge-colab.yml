@@ -16,7 +16,7 @@ jobs:
         with:
           check: "all"
           target_branch: main
-          target_repository: CarlosValleA/IIBM-BootCamp-2023
+          target_repository: cgvalle/IIBM-BootCamp-2024
           update: true
 
       - name: Commit & Push changes
