@@ -54,11 +54,11 @@ Check out the incredible speakers we had throughout the week
 
 | Day |  Professor                  | Web page                                                                              |
 |-----|-----------------------------------------|--------------------------------------------------------------------------------- |
-| 5   |Pablo Irarrázabal     |    [ IIBM Profile](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)      
-| 1   |René Botnar               | [King's College London Profile ](https://www.kcl.ac.uk/people/rene-botnar)              |
-| 4   |Flavia Zacconi           | [IIBM Profile](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/817-flavia-zacconi)  |
-| 2   |TBA             |                                       |
-| 3   |César Ramírez             | [Lab PB3](https://pb3.sitios.ing.uc.cl/)                                         |
+| 1   |Pablo Irarrázabal     |    [ IIBM Profile](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)      
+| 2   |René Botnar               | [King's College London Profile ](https://www.kcl.ac.uk/people/rene-botnar)              |
+| 3   |Flavia Zacconi           | [IIBM Profile](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/817-flavia-zacconi)  |
+| 4   |TBA             |                                       |
+| 5   |César Ramírez             | [Lab PB3](https://pb3.sitios.ing.uc.cl/)                                         |
 
 
 ## **Topics**
