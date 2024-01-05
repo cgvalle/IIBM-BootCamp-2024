@@ -48,7 +48,7 @@ In order to give you feedback after the morning and afternoon sessions, please s
 ![imagen](https://github.com/cgvalle/IIBM-BootCamp-2024/blob/main/assets/week_schedule.png)
 
 
-## **Speakers **
+## **Speakers**
 Check out the incredible speakers we had throughout the week
 
 
