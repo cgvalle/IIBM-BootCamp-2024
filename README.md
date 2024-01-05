@@ -20,7 +20,7 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 * Contrast the results critically and respectfully with different people
 
 
-## Description of the Tutorials
+## Description of the Topics
 
 The following is a brief description of each tutorial generated in 2022:
 
