@@ -57,7 +57,7 @@ Check out the incredible speakers we had throughout the week
 | 1   |Pablo Irarrázabal     |    [ IIBM Profile](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)      
 | 2   |René Botnar               | [King's College London Profile ](https://www.kcl.ac.uk/people/rene-botnar)              |
 | 3   |Flavia Zacconi           | [IIBM Profile](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/817-flavia-zacconi)  |
-| 4   |TBA             |                                       |
+| 4   |Tobias Wenzel             | [Wenzel Lab](https://wenzel-lab.github.io/)                                      |
 | 5   |César Ramírez             | [Lab PB3](https://pb3.sitios.ing.uc.cl/)                                         |
 
 
