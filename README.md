@@ -22,7 +22,6 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 
 ## Description of the Topics
 
-The following is a brief description of each tutorial generated in 2022:
 
 | Day   | Colab tutorial          |  Solution |          Description             |
 |-------|---------------------------|--|-------------------------------------|
