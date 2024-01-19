@@ -33,9 +33,9 @@ The following is a brief description of each tutorial generated in 2022:
 | Day 3 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2024/blob/main/D3/D3_morning_numpy_matplotlib_Matlab.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2024/blob/main/D3/D3_morning_numpy_matplotlib_Matlab_SOLUTION.ipynb)  | Numpy, Matlab arrays and plots|
 | Day 3 afternoon   |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2024/blob/main/D3/D3_Afternoon_covid.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2024/blob/main/D3/D3_Afternoon_covid_SOLUTION.ipynb)  | Excersise: 'Chile: COVID data'|
 | Day 4 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2024/blob/main/D4/D4Morning_derivatives.ipynb)  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2024/blob/main/D4/D4Morning_derivatives_SOLUTION.ipynb) | Derivatives|
-| Day 4 afternoon   |   |   | Integrals and Convolutional filters|
-| Day 5 morning     |   |   | Linear equations and Fourier Transform|
-| Day 5 afternoon   |   |   | Excersise: Integrate all the week content |
+| Day 4 afternoon   | {{badge D4/D4Afternoon_Integrals.ipynb}}  | {{badge D4/D4Afternoon_Integrals_SOLUTION.ipynb}}  | Integrals and Convolutional filters|
+| Day 5 morning     | {{badge D5/D5Morning_Solving_linearequation.ipynb}}  |   | Linear equations and Fourier Transform|
+| Day 5 afternoon   | {{badge D5/D5Afternoon_fourier_filtering.ipynb}}  |   | Excersise: Integrate all the week content |
 
 
 ## **Send your work for feedback!!!**
